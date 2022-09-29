@@ -10,6 +10,13 @@ export default function Home() {
 	<h1 className={styles.title}>
         Welcome to Spire Striker!
 	</h1>
+	<info1 className={styles.description}>
+	Do you have what it takes to get reach the Top?<br/>
+	Get ready to Strike and Topple the Towers in record time!
+	</info1>
+	<p className={styles.card}>
+	Score Board in Development!
+	</p>
       </main>
     </div>
   )
